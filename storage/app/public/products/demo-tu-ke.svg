@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#eef1ef"/>
+  <ellipse cx="200" cy="255" rx="130" ry="12" fill="#000" opacity="0.08"/>
+  <!-- cabinet body -->
+  <rect x="100" y="60" width="200" height="180" rx="6" fill="#4b6b57"/>
+  <rect x="100" y="60" width="200" height="180" rx="6" fill="none" stroke="#33493c" stroke-width="3"/>
+  <!-- shelves -->
+  <line x1="100" y1="120" x2="300" y2="120" stroke="#33493c" stroke-width="3"/>
+  <line x1="100" y1="180" x2="300" y2="180" stroke="#33493c" stroke-width="3"/>
+  <!-- doors split -->
+  <line x1="200" y1="60" x2="200" y2="240" stroke="#33493c" stroke-width="3"/>
+  <!-- handles -->
+  <circle cx="190" cy="150" r="4" fill="#f0e6c8"/>
+  <circle cx="210" cy="150" r="4" fill="#f0e6c8"/>
+  <!-- legs -->
+  <rect x="112" y="240" width="10" height="20" fill="#33493c"/>
+  <rect x="278" y="240" width="10" height="20" fill="#33493c"/>
+  <!-- decor on top -->
+  <rect x="140" y="40" width="30" height="20" rx="3" fill="#c97b3d"/>
+  <circle cx="230" cy="48" r="10" fill="#d9a441"/>
+</svg>

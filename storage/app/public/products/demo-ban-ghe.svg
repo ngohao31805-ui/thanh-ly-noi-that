@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f3ede4"/>
+  <ellipse cx="200" cy="245" rx="140" ry="14" fill="#000" opacity="0.08"/>
+  <!-- table top -->
+  <rect x="90" y="140" width="220" height="16" rx="4" fill="#8a5a36"/>
+  <rect x="90" y="156" width="220" height="6" fill="#6e4527"/>
+  <!-- table legs -->
+  <rect x="105" y="162" width="10" height="70" fill="#6e4527"/>
+  <rect x="285" y="162" width="10" height="70" fill="#6e4527"/>
+  <!-- left chair -->
+  <rect x="35" y="150" width="50" height="10" rx="3" fill="#c97b3d"/>
+  <rect x="40" y="100" width="10" height="60" fill="#c97b3d"/>
+  <rect x="70" y="100" width="10" height="60" fill="#c97b3d"/>
+  <rect x="35" y="95" width="50" height="10" rx="3" fill="#c97b3d"/>
+  <rect x="38" y="160" width="6" height="40" fill="#8a5a36"/>
+  <rect x="76" y="160" width="6" height="40" fill="#8a5a36"/>
+  <!-- right chair -->
+  <rect x="315" y="150" width="50" height="10" rx="3" fill="#c97b3d"/>
+  <rect x="320" y="100" width="10" height="60" fill="#c97b3d"/>
+  <rect x="350" y="100" width="10" height="60" fill="#c97b3d"/>
+  <rect x="315" y="95" width="50" height="10" rx="3" fill="#c97b3d"/>
+  <rect x="318" y="160" width="6" height="40" fill="#8a5a36"/>
+  <rect x="356" y="160" width="6" height="40" fill="#8a5a36"/>
+</svg>
